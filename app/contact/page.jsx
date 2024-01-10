@@ -44,7 +44,7 @@ const Contact = () => {
           type="submit"
           className='bg-blue-600 text-white p-2 rounded hover:bg-blue-700'
         >
-          Submi
+          Submit
         </button>
       </form>
 </div>
