@@ -1,6 +1,6 @@
 import React from 'react'
-import NavBar from '@/components/NavBar.jsx'
-import CustomFooter from '@/components/CustomFooter.jsx'
+import NavBar from '@/components/NavBar'
+import CustomFooter from '@/components/CustomFooter'
 
 const Contact = () => {
   return (
