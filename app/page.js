@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import NavBar from '@/components/NavBar.jsx'
-import HeroSection from '@/components/HeroSection.jsx'
-import WhatWeDo from '@/components/WhatWeDo.jsx'
+import NavBar from '@/components/navbar.jsx'
+import HeroSection from '@/components/herosection.jsx'
+import WhatWeDo from '@/components/whatwedo.jsx'
 import CustomFooter from '@/components/CustomFooter.jsx'
 import { Inter_Tight } from 'next/font/google'
 
