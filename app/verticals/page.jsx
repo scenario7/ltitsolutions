@@ -1,9 +1,9 @@
 import React from 'react'
 import { GetStaticProps } from 'next'
 import client from '../client'
-import NavBar from '@/components/navbar.jsx'
-import CustomFooter from '@/components/customfooter.jsx'
-import CustomerCard from '@/components/customercard.jsx'
+import NavBar from '@/components/navbar'
+import CustomFooter from '@/components/customfooter'
+import CustomerCard from '@/components/customercard'
 
 
 async function getData(){
