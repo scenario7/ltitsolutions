@@ -42,7 +42,7 @@ export default async function Solutions(){
       <NavBar />
       <div className='flex flex-col'>
         <h1 className='font-serif text-white text-4xl px-10 lg:text-6xl py-10 '>Our Solutions</h1>
-        <h1 className='font-sans text-gray-300 text-xl lg:text-2xl pb-10 px-10 '>Here's what LT IT Solutions can help you out with.</h1>
+        <h1 className='font-sans text-gray-300 text-xl lg:text-2xl pb-10 px-10 '>Here's how LT IT Solutions can help you.</h1>
       </div>
       <div className='px-10 space-y-10 py-10 flex flex-col items-center'>
         {projects.length === 0 ? (
